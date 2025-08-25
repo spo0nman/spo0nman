@@ -16,7 +16,7 @@ These days, I'm building [Calmo](https://getcalmo.com) — an AI assistant that 
 ## 🧠 Projects & Contributions
 
 - **Calmo** — AI-powered incident management agent for SREs
-- **MCP (Mastra Control Plane)** — Plugin-based server for AI agents with context switching
+- **MCPs ** — Many
 - **puppet-redis** — Contributed to multi-instance support for Redis on a single host
 - **HostDB** — Data center inventory management tool
 - **Bosun** — Time series alerting framework
